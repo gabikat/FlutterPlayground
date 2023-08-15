@@ -3,9 +3,10 @@
 
  A project to explore the Flutter framework. 
  <br clear="left"/>
-
- <img src="demo.gif" align="left" width="372" alt="demo gif"/> 
-
+ 
+<div style="margin-right: 15 px;">
+ <img src="demo.gif" align="left" width="372" alt="demo gif" /> 
+</div>
 </br>
 
 ## The user can navigate between three pages: 
